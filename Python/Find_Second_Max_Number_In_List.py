@@ -1,0 +1,5 @@
+n1 = input()
+#n3 = sorted(set([int(x) for x in input().split()]))
+print(sorted(set([int(x) for x in input().split()]))[-2])
+#n4 = sorted(set(n3))
+#print(n3[-2])
